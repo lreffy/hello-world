@@ -1,5 +1,5 @@
 # hello-world
-
+```
 {
   "mcpServers": {
     "weather": {
@@ -11,3 +11,4 @@
     }
   }
 }
+```
