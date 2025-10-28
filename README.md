@@ -1,4 +1,6 @@
 # hello-world
+
+服务配置如下
 ```
 {
   "mcpServers": {
